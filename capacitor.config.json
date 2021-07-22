@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Syth Birdy",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Syth Birdy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c9853262"
+}
